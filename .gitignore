@@ -1,3 +1,6 @@
-.toxiccomments_test.csv
-.toxiccomments_train.csv
 __pycache__/
+/.DS_Store
+/toxiccomments_test.csv
+/toxiccomments_train.csv
+/toxiccomments_submission.csv
+/.ipynb_checkpoints/
